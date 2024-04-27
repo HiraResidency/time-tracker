@@ -28,7 +28,7 @@ pipeline {
 	    {
 	          always{
 			  bat 'hello'
-              build 'DevProject1'
+                          build 'DevProject1'
 	       }
 	}
 }
